@@ -81,6 +81,7 @@ gevent @ file:///opt/concourse/worker/volumes/live/014e1366-b455-480b-61a8-9a69e
 glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
 gmpy2==2.0.8
 greenlet @ file:///opt/concourse/worker/volumes/live/b27b4e9e-4697-4d57-403b-f82d36a391ca/volume/greenlet_1628888146890/work
+h11==0.13.0
 h5py @ file:///opt/concourse/worker/volumes/live/e7503571-c7b1-45ac-4bb7-37b5178cb0df/volume/h5py_1622088436205/work
 HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
 html5lib @ file:///Users/ktietz/demo/mc3/conda-bld/html5lib_1629144453894/work
@@ -153,12 +154,14 @@ numpy==1.22.3
 numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
 olefile @ file:///Users/ktietz/demo/mc3/conda-bld/olefile_1629805411829/work
 openpyxl @ file:///tmp/build/80754af9/openpyxl_1632777717936/work
+outcome==1.2.0
 packaging @ file:///tmp/build/80754af9/packaging_1625611678980/work
 pandas==1.3.4
 pandocfilters @ file:///opt/concourse/worker/volumes/live/d8ef4635-066d-4ffe-5341-12ebf01bd094/volume/pandocfilters_1605120459573/work
 parso @ file:///tmp/build/80754af9/parso_1617223946239/work
 partd @ file:///tmp/build/80754af9/partd_1618000087440/work
 path @ file:///opt/concourse/worker/volumes/live/ada87e48-bd34-49ac-6489-f51a7259db05/volume/path_1623603892072/work
+pathlib==1.0.1
 pathlib2 @ file:///opt/concourse/worker/volumes/live/9cb7a8e6-768d-4b83-4c58-1af1d6394b3e/volume/pathlib2_1625585698767/work
 pathspec==0.7.0
 patsy==0.5.2
@@ -166,6 +169,7 @@ pep8==1.7.1
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 Pillow==8.4.0
+pipdeptree==2.2.1
 pkginfo==1.7.1
 pluggy @ file:///opt/concourse/worker/volumes/live/a2630e20-8422-46fc-7347-f73294368851/volume/pluggy_1615976601840/work
 ply==3.11
@@ -217,6 +221,7 @@ scikit-learn @ file:///opt/concourse/worker/volumes/live/83f46a43-da2a-467b-5581
 scikit-learn-intelex==2021.20210714.100439
 scipy @ file:///opt/concourse/worker/volumes/live/8e481b15-67b8-4160-7a8b-26cd6e8fe54f/volume/scipy_1630606804826/work
 seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
+selenium==4.3.0
 Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
 simplegeneric==0.8.1
 singledispatch @ file:///tmp/build/80754af9/singledispatch_1629321204894/work
@@ -256,6 +261,8 @@ toolz @ file:///home/linux1/recipes/ci/toolz_1610987900194/work
 tornado @ file:///opt/concourse/worker/volumes/live/2c1a63a2-006b-48ee-56b9-0cfe8b4927f9/volume/tornado_1606942321278/work
 tqdm @ file:///tmp/build/80754af9/tqdm_1635330843403/work
 traitlets @ file:///tmp/build/80754af9/traitlets_1632522747050/work
+trio==0.21.0
+trio-websocket==0.9.2
 typed-ast @ file:///opt/concourse/worker/volumes/live/c2210c24-bb2d-4474-77f5-1bc9bf1cb79f/volume/typed-ast_1624953683856/work
 typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1631814937681/work
 ujson @ file:///opt/concourse/worker/volumes/live/258fa87e-ec76-445c-5f9c-fc9523993cd7/volume/ujson_1611259511951/work
@@ -269,6 +276,7 @@ Werkzeug @ file:///tmp/build/80754af9/werkzeug_1635505089296/work
 whichcraft @ file:///tmp/build/80754af9/whichcraft_1617751293875/work
 widgetsnbextension @ file:///opt/concourse/worker/volumes/live/42762d5a-6520-4b06-68a2-619dfed6a007/volume/widgetsnbextension_1607531500933/work
 wrapt @ file:///opt/concourse/worker/volumes/live/1381ca3b-f984-4f5c-4f46-a67ca4eeffa5/volume/wrapt_1607574524589/work
+wsproto==1.1.0
 wurlitzer @ file:///opt/concourse/worker/volumes/live/f0d9880a-118b-4ba3-7b92-3c5bb0f6c00b/volume/wurlitzer_1626947802781/work
 xlrd @ file:///tmp/build/80754af9/xlrd_1608072521494/work
 XlsxWriter @ file:///tmp/build/80754af9/xlsxwriter_1628603415431/work
